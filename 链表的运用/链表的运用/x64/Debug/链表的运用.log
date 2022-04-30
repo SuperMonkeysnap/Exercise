@@ -1,0 +1,4 @@
+﻿  链表.c
+C:\Users\Administrator\Desktop\c语言笔记\结构体\链表的运用\链表的运用\链表.c(59,16): warning C4047: “=”:“int *”与“int”的间接级别不同
+C:\Users\Administrator\Desktop\c语言笔记\结构体\链表的运用\链表的运用\链表.c(48,1): warning C4047: “初始化”:“int *”与“int (*)[10]”的间接级别不同
+  链表的运用.vcxproj -> C:\Users\Administrator\Desktop\c语言笔记\结构体\链表的运用\x64\Debug\链表的运用.exe
