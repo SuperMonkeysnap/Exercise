@@ -1,0 +1,51 @@
+﻿  tutorial10.c
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(50,47): warning C4047: “=”:“node”与“node *”的间接级别不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(96,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int **”
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(97,17): warning C4047: “函数”:“node *”与“node **”的间接级别不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(97,12): warning C4024: “init_node”: 形参和实参 1 的类型不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(97,21): warning C4047: “函数”:“int”与“int *”的间接级别不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(97,18): warning C4024: “init_node”: 形参和实参 2 的类型不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(98,30): warning C4047: “函数”:“node”与“node *”的间接级别不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(98,26): warning C4024: “get_data”: 形参和实参 1 的类型不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(99,19): warning C4047: “=”:“node”与“node *”的间接级别不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(109,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int **”
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(110,21): warning C4047: “函数”:“node *”与“node **”的间接级别不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(110,12): warning C4024: “init_node”: 形参和实参 1 的类型不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(110,27): warning C4047: “函数”:“int”与“int *”的间接级别不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(110,22): warning C4024: “init_node”: 形参和实参 2 的类型不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(111,15): warning C4047: “函数”:“node”与“node *”的间接级别不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(111,11): warning C4024: “set_next”: 形参和实参 1 的类型不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(111,24): warning C4047: “函数”:“node”与“node *”的间接级别不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(111,16): warning C4024: “set_next”: 形参和实参 2 的类型不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(112,56): warning C4047: “函数”:“node”与“node *”的间接级别不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(112,48): warning C4024: “get_data”: 形参和实参 1 的类型不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(114,10): warning C4098: “twonode”:“void”函数返回值
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(125,17): warning C4047: “函数”:“node *”与“node **”的间接级别不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(125,12): warning C4024: “init_node”: 形参和实参 1 的类型不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(128,23): warning C4047: “函数”:“node”与“node *”的间接级别不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(128,19): warning C4024: “get_data”: 形参和实参 1 的类型不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(131,27): warning C4047: “=”:“node”与“node *”的间接级别不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(140,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int **”
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(141,17): warning C4047: “函数”:“node *”与“node **”的间接级别不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(141,12): warning C4024: “init_node”: 形参和实参 1 的类型不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(141,22): warning C4047: “函数”:“int”与“int *”的间接级别不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(141,19): warning C4024: “init_node”: 形参和实参 2 的类型不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(142,30): warning C4047: “函数”:“node”与“node *”的间接级别不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(142,26): warning C4024: “get_data”: 形参和实参 1 的类型不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(143,16): warning C4047: “=”:“node”与“node *”的间接级别不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(153,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int **”
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(154,21): warning C4047: “函数”:“node *”与“node **”的间接级别不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(154,12): warning C4024: “init_node”: 形参和实参 1 的类型不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(154,27): warning C4047: “函数”:“int”与“int *”的间接级别不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(154,23): warning C4024: “init_node”: 形参和实参 2 的类型不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(155,15): warning C4047: “函数”:“node”与“node *”的间接级别不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(155,11): warning C4024: “set_next”: 形参和实参 1 的类型不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(155,25): warning C4047: “函数”:“node”与“node *”的间接级别不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(155,17): warning C4024: “set_next”: 形参和实参 2 的类型不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(156,56): warning C4047: “函数”:“node”与“node *”的间接级别不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(156,48): warning C4024: “get_data”: 形参和实参 1 的类型不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(159,28): warning C4047: “函数”:“node”与“node *”的间接级别不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(159,24): warning C4024: “get_next”: 形参和实参 1 的类型不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(160,44): warning C4047: “函数”:“node”与“node *”的间接级别不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\tutorial10\tutorial10.c(160,40): warning C4024: “get_data”: 形参和实参 1 的类型不同
+  tutorial10.vcxproj -> C:\Users\Administrator\Desktop\c语言笔记\链表\tutorial10\x64\Debug\tutorial10.exe
