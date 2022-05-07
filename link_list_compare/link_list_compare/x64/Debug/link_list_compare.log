@@ -1,0 +1,14 @@
+﻿  link_list_compare.c
+C:\Users\Administrator\Desktop\c语言笔记\链表\link_list_compare\link_list_compare\link_list_compare.c(29,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+C:\Users\Administrator\Desktop\c语言笔记\链表\link_list_compare\link_list_compare\link_list_compare.c(29,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 1 冲突
+C:\Users\Administrator\Desktop\c语言笔记\链表\link_list_compare\link_list_compare\link_list_compare.c(33,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+C:\Users\Administrator\Desktop\c语言笔记\链表\link_list_compare\link_list_compare\link_list_compare.c(33,10): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 1 冲突
+C:\Users\Administrator\Desktop\c语言笔记\链表\link_list_compare\link_list_compare\link_list_compare.c(38,11): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+C:\Users\Administrator\Desktop\c语言笔记\链表\link_list_compare\link_list_compare\link_list_compare.c(38,11): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 1 冲突
+C:\Users\Administrator\Desktop\c语言笔记\链表\link_list_compare\link_list_compare\link_list_compare.c(48,19): warning C4047: “函数”:“int *”与“int”的间接级别不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\link_list_compare\link_list_compare\link_list_compare.c(48,18): warning C4024: “initial_node”: 形参和实参 2 的类型不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\link_list_compare\link_list_compare\link_list_compare.c(74,16): warning C4047: “=”:“int”与“int *”的间接级别不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\link_list_compare\link_list_compare\link_list_compare.c(79,18): warning C4047: “=”:“int”与“int *”的间接级别不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\link_list_compare\link_list_compare\link_list_compare.c(100,23): warning C4047: “!=”:“int *”与“int”的间接级别不同
+C:\Users\Administrator\Desktop\c语言笔记\链表\link_list_compare\link_list_compare\link_list_compare.c(106,19): warning C4047: “==”:“int *”与“int”的间接级别不同
+  link_list_compare.vcxproj -> C:\Users\Administrator\Desktop\c语言笔记\链表\link_list_compare\x64\Debug\link_list_compare.exe
